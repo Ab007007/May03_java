@@ -4,6 +4,11 @@ import java.io.File;
 
 public class FilesDemo
 {
+
+	/**
+	 * @author Aravind
+	 * @param args - file name
+	 */
 	public static void main(String[] args)
 	{
 		File f = new File("D:\\AravindData\\Java slides");

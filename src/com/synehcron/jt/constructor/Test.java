@@ -3,8 +3,7 @@ package com.synehcron.jt.constructor;
 public class Test
 {
 
-	protected Test()
+	public static void main(String[] args)
 	{
-		// TODO Auto-generated constructor stub
 	}
 }
