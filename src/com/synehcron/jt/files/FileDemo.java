@@ -1,4 +1,4 @@
-package com.synehcron.jt.access.files;
+package com.synehcron.jt.files;
 
 import java.io.BufferedReader;
 import java.io.File;
